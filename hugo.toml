@@ -2,6 +2,11 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'github-style'
+
 lastmod = true
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
