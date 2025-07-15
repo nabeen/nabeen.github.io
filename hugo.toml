@@ -1,11 +1,41 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://nabeen.github.io/'
+languageCode = 'ja-JP'
+title = 'nabeen.github.io'
 theme = 'github-style'
 
 lastmod = true
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "nabeen"
+  description = "In solitude, where we are least alone."
+  github = "nabeen"
+  twitter = "_nabeen"
+  url = "https://nabeen.be"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github-mark.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/github-mark-white.png"
+  location = "Virtual"
+  custom_css = ["css/custom.css"]
+  custom_js = ["js/custom.js"]
+  enableSearch = true
+
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[outputs]
+  home = ["html", "json"]
+
+[outputFormats.json]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = false
 
 [caches]
   [caches.images]
