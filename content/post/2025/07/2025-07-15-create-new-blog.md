@@ -4,6 +4,10 @@ slug: "create-new-blog"
 summary: "何度目かもわからない正直"
 date: "2025-07-15T23:04:49+09:00"
 draft: false
+authors:
+  - "nabeen"
+categories:
+  - "poem"
 tags:
   - GitHub Pages
   - Hugo

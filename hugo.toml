@@ -30,7 +30,12 @@ pygmentsUseClasses = true
   lastmod = ["lastmod", ":fileModTime", ":default"]
 
 [outputs]
-  home = ["html", "json", "rss"]
+  home = ['html', 'rss', 'json']
+  page = ['html']
+  rss = ['rss']
+  section = ['html', 'rss']
+  taxonomy = ['html', 'rss']
+  term = ['html', 'rss']
 
 [outputFormats.json]
   mediaType = "application/json"
