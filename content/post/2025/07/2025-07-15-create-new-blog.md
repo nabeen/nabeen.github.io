@@ -2,7 +2,7 @@
 title: 新しいブログを作った、作ってしまった
 slug: create-new-blog
 summary: 何度目かもわからない正直
-date: 2025-07-16
+date: 2025-07-15
 draft: false
 authors:
   - nabeen
