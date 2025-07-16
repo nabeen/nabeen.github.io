@@ -6,8 +6,9 @@ date: 2025-07-17
 draft: true
 authors:
   - nabeen
-categories: 
+categories: poem
 tags:
+  - Obsidian
 ---
 やる気がまだあるうちに、ざっと組み上げた。これで今後ブログを書くハードルがグッと下がったはず。
 
@@ -17,7 +18,7 @@ Obsidian 側に、Hugo の content にまるっと投げられるようなディ
 
 GitHub App の設定については、DeveloperIO[^classmethod] の記事を参考にした。
 
-具体的には、Obsidian 側に Blog というディレクトリを掘って、content 配下をまるっとブログを管理しているリポジトリに sync している。
+具体的には、Obsidian 側に Blog というディレクトリを掘って、content 配下をまるっとブログを管理しているリポジトリに sync している。月毎にディレクトリを切っているのは、管理上の好み。
 
 ```bash
 $ tree ./Blog 
@@ -58,7 +59,13 @@ jobs:
         destination-directory: content
 ```
 
+Obsidi
+
 ## 執筆フロー
+
+普段 Obsidian でデイリーノートを中心に RSS を消化したり、ちょっと考え事したりとか、読書メモを書いたりしている。なので、その中で、あ、これ記事にまとめてもいいかも、と思ったその瞬間に、記事を書き始めることができる。
+
+まぁどちらかというとアウトプットを狙っている、というよりは、アウトプット用に推敲しているなかで、自分の中でも言語化の質が自然と高まっていく、みたいな状態を目指している。
 
 [^songmu]: [リポジトリの内容を別リポジトリに push する GitHub Action を公開した \| おそらくはそれさえも平凡な日々](https://songmu.jp/riji/entry/2025-06-24-action-push-to-another-repository.html)
 [^classmethod]: [GitHub Apps \+ GitHub Actionsで必要なアクセス権限のみ付与した一時的なアクセストークンを発行する \| DevelopersIO](https://dev.classmethod.jp/articles/getting-an-access-token-with-only-the-necessary-permissions-on-github-appsgithub-actions/)

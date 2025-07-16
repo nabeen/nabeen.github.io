@@ -3,7 +3,7 @@ title: 新しいブログを作った、作ってしまった
 slug: create-new-blog
 summary: 何度目かもわからない正直
 date: 2025-07-16
-draft: true
+draft: false
 authors:
   - nabeen
 categories: poem
