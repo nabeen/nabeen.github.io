@@ -2,7 +2,7 @@
 title: Obsidianで執筆する環境を整えた
 slug: obsidian-to-blog
 summary: 無事に構築できた。執筆量が増えるかどうかはわからない
-date: 2025-07-17
+date: 2025-07-16
 draft: false
 authors:
   - nabeen
