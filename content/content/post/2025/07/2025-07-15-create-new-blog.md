@@ -1,19 +1,16 @@
 ---
-title: "新しいブログを作った、作ってしまった"
-slug: "create-new-blog"
-summary: "何度目かもわからない正直"
-date: "2025-07-15T23:04:49+09:00"
-draft: false
+title: 新しいブログを作った、作ってしまった
+slug: create-new-blog
+summary: 何度目かもわからない正直
+date: 2025-07-16
+draft: true
 authors:
-  - "nabeen"
-categories:
-  - "poem"
+  - nabeen
+categories: poem
 tags:
-  - GitHub Pages
   - Hugo
   - Obsidian
 ---
-
 何度目かわからないが、ブログを作った。飽きたら作り直す、僕の悪い癖である。どうにもモヤモヤしたらリセットしたがる癖があって、今回もそれが発症してしまった。
 
 ## 用途
@@ -28,13 +25,9 @@ tags:
 
 ## 運用方法
 
-僕は今年に入ってくらいから Obsidian[^obsidian]に復帰していて、基本的には Obsidian から離れたくない。なので、Obsidian からよしなに執筆、更新していきたい。何気にデイリーノートは結構書いているので、それをいい感じに転用できれば運用コストも低く、続けられそうな気がしている。
+僕は今年に入ってくらいから Obsidian[^obsidian] に復帰していて、基本的には Obsidian から離れたくない。なので、Obsidian からよしなに執筆、更新していきたい。何気にデイリーノートは結構書いているので、それをいい感じに転用できれば運用コストも低く、続けられそうな気がしている。
 
-[^obsidian]: https://obsidian.md/
-
-`@songmu`さんが公開していたツール[^songmu]が、このニーズに結構マッチしそうで、これを試してみようと思っている。
-
-[^songmu]: [リポジトリの内容を別リポジトリに push する GitHub Action を公開した \| おそらくはそれさえも平凡な日々](https://songmu.jp/riji/entry/2025-06-24-action-push-to-another-repository.html)
+`@songmu` さんが公開していたツール [^songmu] が、このニーズに結構マッチしそうで、これを試してみようと思っている。
 
 Obsidian のリポジトリを作って、そこの特定ディレクトリを、まるっとこのブログを管理しているリポジトリに push すれば良さそう。
 
@@ -45,21 +38,22 @@ Obsidian のリポジトリを作って、そこの特定ディレクトリを�
 サイト構成からなんとなく察せると思うが、一応書いておくと、今回使った技術スタックは以下。
 
 - Hugo[^hugo]
-  - theme: github-style[^theme]
+- theme: github-style[^theme]
 - GitHub Pages
 
-[^hugo]: https://gohugo.io/
-[^theme]: https://github.com/MeiK2333/github-style
-
-どちらも久しぶりのスタックだ。ここ最近は Web フロントエンドのロールで仕事をしていたので、それこそ Gatsby[^gatsby]に始まり、最近は Astro[^astro]を使っていたが、別に自分でテーマを作るわけでもないし、なんかそういうのちょっとめんどくさくなってきたなって感じがあったので、昔使っていた技術スタックに戻ってきた。
+どちらも久しぶりのスタックだ。ここ最近は Web フロントエンドのロールで仕事をしていたので、それこそ Gatsby[^gatsby] に始まり、最近は Astro[^astro] を使っていたが、別に自分でテーマを作るわけでもないし、なんかそういうのちょっとめんどくさくなってきたなって感じがあったので、昔使っていた技術スタックに戻ってきた。
 
 とりあえず書ければいいかな。
-
-[^gatsby]: https://www.gatsbyjs.com/
-[^astro]: https://astro.build/
 
 ## 抱負
 
 とりあえず、執筆の敷居を下げるためにも、ワークフローを確立させようと思う。
 
 もししっくり来なかったら、このブログは多分普通に潰してしまうと思う。
+
+[^obsidian]: https://obsidian.md/
+[^songmu]: [リポジトリの内容を別リポジトリに push する GitHub Action を公開した \| おそらくはそれさえも平凡な日々](https://songmu.jp/riji/entry/2025-06-24-action-push-to-another-repository.html)
+[^hugo]: https://gohugo.io/
+[^theme]: https://github.com/MeiK2333/github-style
+[^gatsby]: https://www.gatsbyjs.com/
+[^astro]: https://astro.build/
