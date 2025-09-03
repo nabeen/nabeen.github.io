@@ -22,7 +22,7 @@ pygmentsUseClasses = true
   avatar = "/images/avatar.png"
   headerIcon = "/images/github-mark-white.png"
   location = "Virtual"
-  # custom_css = ["css/custom.css"]
+  custom_css = ["css/custom.css"]
   # custom_js = ["js/custom.js"]
   enableSearch = true
 
