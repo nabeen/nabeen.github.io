@@ -31,7 +31,7 @@ Github Style[^github-style] を使っていた。理由としては、GitHub 好
 
 ## 変更が必要だった部分
 
-前に使っていたテーマの
+前に使っていたテーマの記事置き場が `post` で、それが Dream と合わなかったので、以下の設定をして逃した。
 
 ```toml
 [module]
@@ -47,6 +47,12 @@ target = 'content/about'
 source = 'content/search'
 target = 'content/search'
 ```
+
+別にこのタイミングで変えてもよかったのだけど Obsidian のリポジトリのコピーを Hugo のリポジトリに送っているとかいうちょっと面倒くさいことをしていて、そのへんを書き換えるのがやや億劫だったので、既存のつくりのまま使えるように変えておいた。
+
+複雑なことをしないのであれば、`contentDir`[^contentDir]で変更できる
+
+[^contentDir]: [All settings](https://gohugo.io/configuration/all/#contentdir)
 
 [^github-style]: [Github Style](https://themes.gohugo.io/themes/github-style/)
 [^dream]: [Dream](https://themes.gohugo.io/themes/hugo-theme-dream/)
