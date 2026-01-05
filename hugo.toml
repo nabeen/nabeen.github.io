@@ -74,3 +74,11 @@ noClasses = false
 [[module.mounts]]
 source = 'content/post'
 target = 'content/posts'
+
+[[module.mounts]]
+source = 'content/about'
+target = 'content/about'
+
+[[module.mounts]]
+source = 'content/search'
+target = 'content/search'
