@@ -6,6 +6,8 @@ date: 2025-12-11
 draft: true
 authors:
   - nabeen
+avatar: /images/avatar.png
+nolastmod: true
 categories: journal
 tags:
 ---

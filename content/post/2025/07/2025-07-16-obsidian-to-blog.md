@@ -6,6 +6,8 @@ date: 2025-07-16
 draft: false
 authors:
   - nabeen
+avatar: /images/avatar.png
+nolastmod: true
 categories: poem
 tags:
   - Obsidian

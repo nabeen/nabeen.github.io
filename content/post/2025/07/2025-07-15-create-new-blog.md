@@ -10,6 +10,8 @@ categories: poem
 tags:
   - Hugo
   - Obsidian
+nolastmod: true
+avatar: /images/avatar.png
 ---
 何度目かわからないが、ブログを作った。飽きたら作り直す、僕の悪い癖である。どうにもモヤモヤしたらリセットしたがる癖があって、今回もそれが発症してしまった。
 
