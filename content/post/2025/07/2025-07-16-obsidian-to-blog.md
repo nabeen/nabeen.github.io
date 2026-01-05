@@ -4,8 +4,7 @@ slug: obsidian-to-blog
 summary: 無事に構築できた。執筆量が増えるかどうかはわからない
 date: 2025-07-16
 draft: false
-authors:
-  - nabeen
+author: nabeen
 avatar: /images/avatar.png
 nolastmod: true
 categories: poem

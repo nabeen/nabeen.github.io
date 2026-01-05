@@ -4,8 +4,7 @@ slug: resolution
 summary: 今年は一味違うんだぜってところを見せつけていきたい
 date: 2026-01-01
 draft: false
-authors:
-  - nabeen
+author: nabeen
 avatar: /images/avatar.png
 nolastmod: true
 categories: poem
