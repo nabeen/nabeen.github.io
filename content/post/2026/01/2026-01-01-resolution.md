@@ -6,6 +6,7 @@ date: 2026-01-01
 draft: false
 authors:
   - nabeen
+avatar: /images/avatar.png
 categories: poem
 tags:
 ---
