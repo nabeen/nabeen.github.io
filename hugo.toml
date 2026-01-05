@@ -1,47 +1,76 @@
 baseURL = 'https://nabeen.github.io/'
 languageCode = 'ja-JP'
 title = 'nabeen.github.io'
-theme = 'github-style'
+theme = 'dream'
 
-lastmod = true
-
-pygmentsCodeFences = true
-pygmentsUseClasses = true
+enableRobotsTXT = true
+hasCJKLanguage = true
 
 [params]
-  author = "nabeen"
-  description = "In solitude, where we are least alone."
-  github = "nabeen"
-  twitter = "_nabeen"
-  url = "https://nabeen.be"
-  keywords = "blog, google analytics"
-  rss = true
-  lastmod = true
-  userStatusEmoji = "😀"
-  favicon = "/images/github-mark.png"
-  avatar = "/images/avatar.png"
-  headerIcon = "/images/github-mark-white.png"
-  location = "Virtual"
-  custom_css = ["css/custom.css"]
-  # custom_js = ["js/custom.js"]
-  enableSearch = true
+zenMode = true
 
-[frontmatter]
-  lastmod = ["lastmod", ":fileModTime", ":default"]
+lightTheme = "emerald"
+darkTheme = "forest"
 
-[outputs]
-  home = ['html', 'rss', 'json']
-  page = ['html']
-  rss = ['rss']
-  section = ['html', 'rss']
-  taxonomy = ['html', 'rss']
-  term = ['html', 'rss']
+# backgroundImage = ""
+# backgroundImageDark = ""
 
-[outputFormats.json]
-  mediaType = "application/json"
-  baseName = "index"
-  isPlainText = false
+# images = ["img/global-background.jpg"]
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+author = "nabeen"
+description = "nabeen の活動記録"
+avatar = "images/avatar.png"
+headerTitle = "nabeen.github.io"
+motto = "nabeen の活動記録"
+
+footerBottomText = "All Rights Reserved."
+
+rss = true
+ 
+# utterancesRepo = "nabeen/nabeen.github.io"
+ 
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+ 
+# waline = true
+# walineServer = ""
+ 
+# email = "nabeen919@gmail.com"
+ 
+siteStartYear = 2025
+ 
+favicon = "images/avatar.png"
+ 
+# Syntax highlighting
+customSyntaxHighlighting = true
+ 
+# options
+stickyNav = false
+# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
+reorderNavItems = ["search", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+reorderShares = ["x"]
+
+[params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+ 
+[params.experimental]
+jsDate = true
+jsDateFormat = "yyyy-MM-dd"
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[module]
+[[module.mounts]]
+source = 'content/post'
+target = 'content/posts'
