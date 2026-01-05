@@ -4,7 +4,7 @@ slug: update-blog-theme
 summary:
 date: 2026-01-05
 lastmod:
-draft: true
+draft: false
 author: nabeen
 avatar: /images/avatar.png
 nolastmod: true
@@ -48,11 +48,19 @@ source = 'content/search'
 target = 'content/search'
 ```
 
-別にこのタイミングで変えてもよかったのだけど Obsidian のリポジトリのコピーを Hugo のリポジトリに送っているとかいうちょっと面倒くさいことをしていて、そのへんを書き換えるのがやや億劫だったので、既存のつくりのまま使えるように変えておいた。
+別にこのタイミングで変えてもよかったのだけど Obsidian のリポジトリのコピーを Hugo のリポジトリに送っているとかいうちょっと面倒くさいことをしていて、そのへんを書き換えるのがやや億劫だったので、既存のつくりのまま使えるようにこの設定を入れた。
 
-複雑なことをしないのであれば、`contentDir`[^contentDir]で変更できる
+複雑なことをしないのであれば、`contentDir`[^contentDir] で変更できるのだけど、今回みたいにやや複雑だと
 
-[^contentDir]: [All settings](https://gohugo.io/configuration/all/#contentdir)
+> For a more flexible approach to configuring this directory, consult the section on module mounts.
+
+ということで、Mounts[^mounts] という機能を使えば実現できる。ちなみにこの機能は今回初めて知った。世の中知らないことばかりである。
+
+## おわりに
+
+とりあえず今のところ結構いい感じだなと思っているので、日々たゆまぬ努力で駄文を錬成していきたい。
 
 [^github-style]: [Github Style](https://themes.gohugo.io/themes/github-style/)
 [^dream]: [Dream](https://themes.gohugo.io/themes/hugo-theme-dream/)
+[^contentDir]: [All settings](https://gohugo.io/configuration/all/#contentdir)
+[^mounts]: [Configure modules](https://gohugo.io/configuration/module/#mounts)
