@@ -12,8 +12,9 @@ categories:
   - tech
 tags:
   - Hugo
-cover: ./2026-01-06-update-blog-theme.png
+cover: 2026-01-06-update-blog-theme.png
 images:
+  - 2026-01-06-update-blog-theme.png
 ---
 このブログは今現在 Hugo で運用しているが、そのテーマを変更した。ブログを書き始めるには、まずこういうところから整えていくタイプである。
 
