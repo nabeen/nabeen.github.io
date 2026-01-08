@@ -39,9 +39,7 @@ Wi-Fi が繋がらないと積むので、ここが一番の心配点ではあ�
 
 あとはいつも使っているアプリである Obsidian、Todoist を入れたり、AUR 用に `yay` を入れたりした。まぁここまで来たら、他には特に難しいところはないし、多分いくらでもリカバリ可能なはず。
 
-あとランチャーも一応入れたな。Redditで見つけたVicinae[^vicinae]
-
-[GitHub - vicinaehq/vicinae: A focused launcher for your desktop — native, fast, extensible](https://github.com/vicinaehq/vicinae)
+あとランチャーも一応入れたな。Reddit で見つけた Vicinae[^vicinae] というやつで、Raycast Inspired と書いてあったので、普段の仕事の開発マシンとの見た目の差分も少なくてよいかなと思ったので。まぁ乗り換えたければあとで乗り換えるということで。
 
 ## やりたいこと
 
@@ -55,3 +53,4 @@ Wi-Fi が繋がらないと積むので、ここが一番の心配点ではあ�
 
 [^archinstall]: [archinstallを使って簡単にArch Linuxをインストール【KDE Plasma】 #初心者 - Qiita](https://qiita.com/poyotanp/items/cc1ea62f4c61e15f03a4)
 [^japanese]: [Arch Linuxの初期設定（日本語化、日本語入力）【KDE Plasma】 #archLinux - Qiita](https://qiita.com/poyotanp/items/e59336dd6b42283fda2e)
+[^vicinae]: [GitHub - vicinaehq/vicinae: A focused launcher for your desktop — native, fast, extensible](https://github.com/vicinaehq/vicinae)
