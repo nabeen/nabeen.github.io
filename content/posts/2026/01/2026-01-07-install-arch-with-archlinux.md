@@ -4,14 +4,14 @@ slug: install-arch-with-archlinux
 summary:
 date: 2026-01-07
 lastmod:
-draft: true
+draft: false
 author: nabeen
 avatar: /images/avatar.png
 nolastmod: true
 categories:
   - tech
 tags:
-  - Hugo
+  - ArchLinux
 ---
 Arch Linux をインストールしたのでやったことをメモしておく。
 
@@ -37,7 +37,13 @@ Wi-Fi が一番の心配点ではあったが、特にトラブルもなく接�
 
 ## やりたいこと
 
-挙げればキリがないので、おもいつくｍ
+挙げればキリがないので、思いつくものだけ
+
+- 指紋認証
+- デスクトップのカスタマイズ
+- NeoVim のカスタマイズ
+
+...意外と思いつくものが少なかった。とりあえず今年は Linux と仲良くなる年だと思っているので、ゆっくり遊んでいこうと思う。キーボードショートカットはもっといい感じにしたいよなぁとは思う。
 
 [^archinstall]: [archinstallを使って簡単にArch Linuxをインストール【KDE Plasma】 #初心者 - Qiita](https://qiita.com/poyotanp/items/cc1ea62f4c61e15f03a4)
 [^japanese]: [Arch Linuxの初期設定（日本語化、日本語入力）【KDE Plasma】 #archLinux - Qiita](https://qiita.com/poyotanp/items/e59336dd6b42283fda2e)
