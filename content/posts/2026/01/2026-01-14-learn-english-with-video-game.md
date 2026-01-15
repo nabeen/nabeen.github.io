@@ -23,7 +23,7 @@ Duolingo はゲーミフィケーションを取り入れていて楽しくで�
 
 ## 英語でゲームをするということ
 
-ゲームで英語を学ぶというのは実は成功体験があって、一昨年出た某紳士向けのゲームを英語学習のためと言い聞かせて購入し、非常に楽しんだ経験がある。
+ゲームで英語を学ぶというのは実は成功体験があって、一昨年出た某紳士向けのゲーム [^bunny] を英語学習のためと言い聞かせて購入し、非常に楽しんだ経験がある。
 
 これで英語ができるようになったかと言われると別にできるようになってないので今こうやってまた英語学習を抱負に掲げているわけだが、英語に対する耐性みたいなものは一定ついたのは間違いない。
 
@@ -56,6 +56,7 @@ Phew ってよく言っていたのは記憶に残っている。
 
 [^duolingo]: [Duolingo - 世界で最も人⁠気⁠のオ⁠ン⁠ラ⁠イ⁠ン学⁠習プ⁠ラ⁠ッ⁠ト⁠フ⁠ォ⁠ー⁠ム](https://ja.duolingo.com/)
 [^elsa]: [AI英会話アプリ ELSA Speak](https://elsaspeak.com/ja/)
+[^bunny]: [バニーガーデン \| My Nintendo Store（マイニンテンドーストア）](https://store-jp.nintendo.com/item/software/D70010000074045)
 [^逆転裁判]: [逆転裁判シリーズ 公式サイト｜CAPCOM](https://www.ace-attorney.com/ja/)
 [^coffee]: [COFFEE TALK](https://coffeetalkgame.jp/)
 [^disco]: [Nintendo Switch/PS4/PS5『ディスコ エリジウム ザ ファイナル カット』 \| スパイク・チュンソフト](https://www.spike-chunsoft.co.jp/pages/discoelysium/)
