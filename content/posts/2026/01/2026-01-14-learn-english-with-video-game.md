@@ -42,13 +42,13 @@ Phew ってよく言っていたのは記憶に残っている。
 
 一点目に関しては言わずもがなで、例えばアクションとか、英語を読まなくても雰囲気で進められるのは向かない。某紳士向けゲームも、逆転裁判も、英語を読まなければ先に進められない（あるいは xx なシーンにたどり着けない）ので、必然的に英文を読む必要性が出てくる。必要性はなくとも、Coffee Talk[^coffee] みたいなテキストアドベンチャーもわりと向いていると思う。読まないと楽しめないので。
 
-ちなみにテキストの量だけで言えば Disco Elysium はめちゃくちゃ優秀なんだけど、残念なことに日本語ですら何を言ってるかわからないので、これを英語初心者が英語でやるのは自殺行為なのでおすすめしない。
+ちなみにテキストの量だけで言えば Disco Elysium[^disco] はめちゃくちゃ優秀なんだけど、残念なことに日本語ですら何を言ってるかわからないので、これを英語初心者が英語でやるのは自殺行為なのでおすすめしない。
 
 2 点目はメリットありつつデメリットもあるなと思っているが、やっぱりフルボイスのほうが耳からも目からも英語を入れられるのでメリットのほうが大きいなと思っている。デメリットは、フルボイスのゲームは基本的にこっちの速度に合わせてくれないので、ん？と思ったとしても後戻りはできない。
 
 ## やりはじめたもの
 
-最初オクトバストラベラーに手を出したんだけど、思ったほどボイスのあるシーンがなかったので、結局今は Life is Strange をやっている。1 は昔やった（日本語版だけど）ので、2 から。2 やって Before the Storm やって True Colors まで。Double Exposure はまだ買ってないので、やりきったら考えようと思う。
+最初オクトバストラベラー[^octopath] に手を出したんだけど、思ったほどボイスのあるシーンがなかったので、結局今は Life is Strange をやっている。1[^strange1] は昔やった（日本語版だけど）ので、2[^strange2] から。2 やって Before the Storm[^strange0] やって True Colors[^strange3] まで。Double Exposure[^strange4] はまだ買ってないので、やりきったら考えようと思う。
 
 本題とは関係ないんだけど、社会人になって以降、RPG というものをやることに対してかなり億劫な感情を抱いていて、ここ何年も RPG には触れてこなかった。ただ今回久しぶりにオクトパストラベラーで RPG に触れ、あぁこれこそ JRPG だという懐かしい感情と共に、意外とまだまだ RPG 楽しめるなということに気づいたのは収穫だった。
 
@@ -58,3 +58,10 @@ Phew ってよく言っていたのは記憶に残っている。
 [^elsa]: [AI英会話アプリ ELSA Speak](https://elsaspeak.com/ja/)
 [^逆転裁判]: [逆転裁判シリーズ 公式サイト｜CAPCOM](https://www.ace-attorney.com/ja/)
 [^coffee]: [COFFEE TALK](https://coffeetalkgame.jp/)
+[^disco]: [Nintendo Switch/PS4/PS5『ディスコ エリジウム ザ ファイナル カット』 \| スパイク・チュンソフト](https://www.spike-chunsoft.co.jp/pages/discoelysium/)
+[^octopath]: [OCTOPATH TRAVELER（オクトパストラベラー） \| SQUARE ENIX](https://www.jp.square-enix.com/octopathtraveler/)
+[^strange1]: [Life is Strange \| SQUARE ENIX](https://www.jp.square-enix.com/lis/)
+[^strange2]: [Life is Strange 2 \| SQUARE ENIX](https://www.jp.square-enix.com/lis2/)
+[^strange0]: [Life is Strange: Before the Storm \| SQUARE ENIX](https://www.jp.square-enix.com/lisbts/)
+[^strange3]: [Life is Strange: True Colors \| SQUARE ENIX](https://www.jp.square-enix.com/lis/listc/)
+[^strange4]: [Life is Strange: Double Exposure \| SQUARE ENIX \| SQUARE ENIX](https://www.jp.square-enix.com/lis/lisde/)
