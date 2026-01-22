@@ -90,7 +90,9 @@ Vim（NeoVim）の設定はかなり時間がかかりそうだったので、�
 
 ## これから
 
-タイル型に一種の憧れがあるので、hyprland あたりを試していこうと思っている。実際ちょっと試してみたのだけど、今の設定（ネットワーク、日本語入力）あたりが死んでしまっており、
+タイル型に一種の憧れがあるので、hyprland あたりを試していこうと思っている。実際ちょっと試してみたのだけど、今の設定をうまく引き継げてないところがあって、日本語切り替えができなかったり、色々不便が多い。
+
+あと、単純に重い。ログインにめちゃくちゃ時間がかかる。もしかするとマシンスペック結構必要なやつなのかもしれない。
 
 [^sheldon]: [GitHub - rossmacarthur/sheldon: :bowtie: Fast, configurable, shell plugin manager](https://github.com/rossmacarthur/sheldon)
 [^lazyvim]: [GitHub - LazyVim/LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
