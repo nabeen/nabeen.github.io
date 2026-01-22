@@ -17,9 +17,13 @@ tags:
 
 過去、dotfiles を育てていこうというタイミングがなかったわけではないのだけど、その時は育てるという感覚はあまりなく、適当にバックアップをとっていた感じで終わっていた。それ以来、ターミナルに常駐して仕事するってことが結構減ったので、放置していた。
 
-今回、プライベートで Linux をガシガシ使っていくにあたって、このあたりを色々整備しているという話。
+が、今回、プライベートで Linux をガシガシ使っていくにあたって、このあたりを色々整備している。やっぱりプレーンテキストで設定ファイルが存在するっていうのは、気持ちいいものだ。
+
+最近毎日何かしら触っている。
 
 ## やったもの
+
+とりあえず現時点のものを吐き出すと、こんな感じになっている。
 
 ```bash
 ❯ tree ./ -a -I .git
@@ -70,11 +74,6 @@ tags:
 │           └── plugins.toml
 ├── tmux
 │   └── .tmux.conf
-├── waybar
-│   └── .config
-│       └── waybar
-│           ├── config
-│           └── style.css
 ├── yay
 │   └── .config
 │       └── yay
@@ -84,3 +83,12 @@ tags:
 
 30 directories, 28 files
 ```
+
+みての通りだが、`sheldon`[^sheldon] で管理する形をとっている。他にもいくつかあったのは調べた（もう忘れた）が、シンプルに使えそうだったので。
+
+## あきらめたもの
+
+Vim（NeoVim）の設定はかなり時間がかかりそうだったので、諦めてしまった。LazyVim[^lazyvim]
+
+[^sheldon]: [GitHub - rossmacarthur/sheldon: :bowtie: Fast, configurable, shell plugin manager](https://github.com/rossmacarthur/sheldon)
+[^lazyvim]: [GitHub - LazyVim/LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
