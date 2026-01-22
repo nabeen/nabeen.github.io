@@ -39,10 +39,6 @@ tags:
 │           └── config
 ├── git
 │   └── .gitconfig
-├── hypr
-│   └── .config
-│       └── hypr
-│           └── hyprland.conf
 ├── nvim
 │   └── .config
 │       └── nvim
@@ -88,7 +84,11 @@ tags:
 
 ## あきらめたもの
 
-Vim（NeoVim）の設定はかなり時間がかかりそうだったので、諦めてしまった。LazyVim[^lazyvim]
+Vim（NeoVim）の設定はかなり時間がかかりそうだったので、諦めてしまった。LazyVim[^lazyvim] でいいかとなり、とりあえず LazyVim を使ってセットアップした。
+
+## これから
+
+タイル型に一種の憧れがあるので、hyprland あたりを試していこうと思っている。実際ちょっと試してみたのだけど、
 
 [^sheldon]: [GitHub - rossmacarthur/sheldon: :bowtie: Fast, configurable, shell plugin manager](https://github.com/rossmacarthur/sheldon)
 [^lazyvim]: [GitHub - LazyVim/LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
