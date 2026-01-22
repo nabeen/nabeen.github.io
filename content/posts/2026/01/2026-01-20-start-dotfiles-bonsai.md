@@ -86,9 +86,11 @@ tags:
 
 Vim（NeoVim）の設定はかなり時間がかかりそうだったので、諦めてしまった。LazyVim[^lazyvim] でいいかとなり、とりあえず LazyVim を使ってセットアップした。
 
+ショートカットがめちゃくちゃ多いので、全く覚えきれない。
+
 ## これから
 
-タイル型に一種の憧れがあるので、hyprland あたりを試していこうと思っている。実際ちょっと試してみたのだけど、
+タイル型に一種の憧れがあるので、hyprland あたりを試していこうと思っている。実際ちょっと試してみたのだけど、今の設定（ネットワーク、日本語入力）あたりが死んでしまっており、
 
 [^sheldon]: [GitHub - rossmacarthur/sheldon: :bowtie: Fast, configurable, shell plugin manager](https://github.com/rossmacarthur/sheldon)
 [^lazyvim]: [GitHub - LazyVim/LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
