@@ -4,7 +4,7 @@ slug: start-dotfiles-bonsai
 summary:
 date: 2026-01-23
 lastmod:
-draft: true
+draft: false
 author: nabeen
 avatar: /images/avatar.png
 nolastmod: true
@@ -86,13 +86,16 @@ tags:
 
 Vim（NeoVim）の設定はかなり時間がかかりそうだったので、諦めてしまった。LazyVim[^lazyvim] でいいかとなり、とりあえず LazyVim を使ってセットアップした。
 
-ショートカットがめちゃくちゃ多いので、全く覚えきれない。
+ショートカットがめちゃくちゃ多いので、全く覚えきれない。ブラウザ拡張も Vimium[^Vimium] を使い始めたので、覚えるべきショートカットが多くて困っている。
 
 ## これから
 
 タイル型に一種の憧れがあるので、hyprland あたりを試していこうと思っている。実際ちょっと試してみたのだけど、今の設定をうまく引き継げてないところがあって、日本語切り替えができなかったり、色々不便が多い。
 
-あと、単純に重い。ログインにめちゃくちゃ時間がかかる。もしかするとマシンスペック結構必要なやつなのかもしれない。
+あと、単純に重い。ログインにめちゃくちゃ時間がかかる。もしかするとマシンスペック結構必要なやつなのかもしれない。レンダリングコストが結構高そうな印象だった。
+
+そう考えると、今使っている KDE Plasma は結構優秀だなと思う。
 
 [^sheldon]: [GitHub - rossmacarthur/sheldon: :bowtie: Fast, configurable, shell plugin manager](https://github.com/rossmacarthur/sheldon)
 [^lazyvim]: [GitHub - LazyVim/LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
+[^Vimium]: [Vimium – Get this Extension for 🦊 Firefox (en-GB)](https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/)
