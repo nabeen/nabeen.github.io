@@ -2,9 +2,9 @@
 title: dotfiles 盆栽を始めた
 slug: start-dotfiles-bonsai
 summary:
-date: 2026-01-23
+date: 2026-01-22
 lastmod:
-draft: true
+draft: false
 author: nabeen
 avatar: /images/avatar.png
 nolastmod: true
@@ -94,7 +94,7 @@ Vim（NeoVim）の設定はかなり時間がかかりそうだったので、�
 
 あと、単純に重い。ログインにめちゃくちゃ時間がかかる。もしかするとマシンスペック結構必要なやつなのかもしれない。レンダリングコストが結構高そうな印象だった。
 
-そう考えると、今
+そう考えると、今使っている KDE Plasma は結構優秀だなと思う。
 
 [^sheldon]: [GitHub - rossmacarthur/sheldon: :bowtie: Fast, configurable, shell plugin manager](https://github.com/rossmacarthur/sheldon)
 [^lazyvim]: [GitHub - LazyVim/LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
