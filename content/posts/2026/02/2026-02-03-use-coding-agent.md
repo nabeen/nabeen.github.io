@@ -4,7 +4,7 @@ slug: use-coding-agent
 summary:
 date: 2026-02-03
 lastmod:
-draft: true
+draft: false
 author: nabeen
 avatar: /images/avatar.png
 nolastmod: true
