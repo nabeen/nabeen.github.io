@@ -1,5 +1,5 @@
 ---
-title: コーディングエージェントをどう使うか
+title: コーディングエージェントをちゃんと使う
 slug: use-coding-agent
 summary:
 date: 2026-02-03
@@ -11,8 +11,12 @@ nolastmod: true
 categories:
   - poem
 tags:
-  - Codex
   - ClaudeCode
-  - Cursor
-  - Copilot
 ---
+現在、仕事では Claude Code、プライベートでは Codex を使っている。別に強い意志を持って使い分けているわけではない。
+
+仕事では、会社として使えるのが、Claude Code、Cursor、Copilot（他には Gemini とか Devin とか Notion AI とかまぁ色々あるがそのあたりは所謂コーディングエージェントとは少し毛色が違うので言及しない） であり、プライベートでは ChatGPT をずっと契約しているので惰性で使っている。
+
+で、一応自分は横断的なことをやるチームにいるので、どうすればレバレッジが効くか、みたいなことを中心に考えているのだけど、これをやると一気にハードルがあがる。というか、実質無理ゲーになる。
+
+それは、例えば僕がやっているタスクがStream A
